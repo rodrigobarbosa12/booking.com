@@ -1,4 +1,4 @@
-# 🚀 Booking api - Teste
+# 🚀 Booking frontend - Teste
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
