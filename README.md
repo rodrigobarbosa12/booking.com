@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🏃‍♂️ Rodando localmente
 
-Instale as dependencias necessários
+Instale as dependencias necessárias
 
 Usando npm
 ```
