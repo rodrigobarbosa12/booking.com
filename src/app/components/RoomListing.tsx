@@ -59,9 +59,9 @@ export function RoomListing() {
                 </div>
                 <div className="d-flex align-items-center mb-3">
                   {[...Array(5)].map((_, index) => (
-                    <Star key={index} className={index < room.reviews ? "text-warning" : "text-muted"} />
+                    <Star key={index} className="text-warning" />
                   ))}
-                  <small className="text-muted ms-1">({room.guest} avaliações)</small>
+                  <small className="text-muted ms-1">({room.reviews} avaliações)</small>
                 </div>
                 <div className="d-flex justify-content-between align-items-center">
                   <h6 className="mb-0">R$ {room.price}/noite</h6>
